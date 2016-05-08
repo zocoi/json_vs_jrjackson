@@ -1,6 +1,6 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem 'multijson'
+gem 'multi_json'
 gem 'json'
 
 platforms :jruby do
