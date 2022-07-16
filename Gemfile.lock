@@ -2,11 +2,13 @@ GEM
   remote: https://rubygems.org/
   specs:
     jrjackson (0.3.9-java)
-    json (1.8.3-java)
+    json (2.3.0)
+    json (2.3.0-java)
     multi_json (1.12.0)
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   jrjackson
